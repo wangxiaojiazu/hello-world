@@ -1,2 +1,2 @@
-# hello-world 
-this is the helloword message from github
+# hello-world
+this is the hello world message from github
